@@ -4,6 +4,8 @@
         "dev": "nuxi dev",
         "build": "nuxi build",
         "start": "node .output/server/index.mjs",
+        "storybook": "start-storybook -p 6006",
+        "build:storybook": "build-storybook",
         "type-check": "tsc --project tsconfig.json --pretty --noEmit",
         "lint:js": "eslint --ext \".js,.ts,.vue\" --ignore-path .gitignore .",
         "lint": "yarn lint:js",
@@ -25,8 +27,7 @@
         "postcss": "^8.3.11",
         "prettier": "^2.4.1",
         "tailwindcss": "^2.2.17",
-        "typescript": "^4.4.4",
-        "unplugin-icons": "^0.12.16"
+        "typescript": "^4.4.4"
     },
     "dependencies": {},
     "husky": {

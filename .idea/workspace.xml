@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bc37282-5797-4521-a4e8-e6d5425eb849" name="Changes" comment="" />
+    <list default="true" id="6bc37282-5797-4521-a4e8-e6d5425eb849" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.eslintrc.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Avatar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Button.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ComponentExample.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Dialog.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/PageNavIndicator.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Sep.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Spinner.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/StarterKit.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/default.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuxt.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/catchall/[...id].vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/gallery.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/elzodxon/WebstormProjects/UIC",
+    "last_opened_file_path": "/home/elzodxon/WebstormProjects/UIC/nuxt-starter-kit",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -35,11 +57,16 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "/home/elzodxon/.nvm/versions/node/v16.16.0/bin/node",
     "nodejs_package_manager_path": "yarn",
-    "settings.editor.selected.configurable": "settings.nodejs",
-    "ts.external.directory.path": "/home/elzodxon/.local/share/JetBrains/Toolbox/apps/WebStorm/ch-0/222.3739.57/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external",
+    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
+    "ts.external.directory.path": "/home/elzodxon/WebstormProjects/UIC/nuxt-starter-kit/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

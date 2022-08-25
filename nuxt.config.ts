@@ -1,5 +1,4 @@
 import { defineNuxtConfig } from 'nuxt3'
-import Icons from 'unplugin-icons/vite'
 
 export default defineNuxtConfig({
   head: {
@@ -16,14 +15,7 @@ export default defineNuxtConfig({
   alias: {
     '~/*': './*',
   },
-  buildModules: [
-    [
-      'unplugin-icons/nuxt',
-      {
-        defaultClass: 'w-7 h-7 inline-block',
-      },
-    ],
-  ],
+  buildModules: [],
   publicRuntimeConfig: {
     publicUrl: process.env.PUBLIC_URL,
   },
